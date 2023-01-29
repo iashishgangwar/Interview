@@ -5,6 +5,7 @@ class SecondLargest {
         System.out.println(findSecondLargestNumber(intArray));
     }
 
+    // Time Complexity: O(n).  
     public static String findSecondLargestNumber(int arr[]) {
 
         int largest, secondLargest;
